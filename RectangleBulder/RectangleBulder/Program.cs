@@ -6,31 +6,37 @@ namespace RectangleBulder
     {
         static void Main(string[] args)
         {
-            Console.Write("Write wanted width: ");
-            string readWidth = Console.ReadLine();
+            int width = ReadParameter("width");
+            int height = ReadParameter("height");
+            Build(height, width);
 
-            Console.Write("Write wanted height: ");
-            string readHeight = Console.ReadLine();
-
-            int width = int.Parse(readWidth);
-            int height = int.Parse(readHeight);
-
-            Console.WriteLine();
-
-            build(width, height);
-
-            static void build(int x, int y)
+            static void Build(int height, int width)
             {
-                for (int i = 0; i < x; i++)
+                for (int i = 0; i < height; i++)
                 {
-                    for (int j = 0; j < y; j++)
+                    for (int j = 0; j < width; j++)
                     {
                         Console.Write("*");
                     }
                     Console.WriteLine("*");
                 }
             }
+            
+            static int ReadParameter(string name)
+            {
+                Console.Write($"Write wanted {name}: ");
+                string readNumber = Console.ReadLine();
 
+                int number;
+                bool isNumber = int.TryParse(readNumber, out number);
+                while (!isNumber)
+                {
+                    Console.WriteLine("Please, write a number: ");
+                    readNumber = Console.ReadLine();
+                    isNumber = int.TryParse(readNumber, out number);
+                }
+                return number;
+            }
             Console.ReadKey();
         }
     }
