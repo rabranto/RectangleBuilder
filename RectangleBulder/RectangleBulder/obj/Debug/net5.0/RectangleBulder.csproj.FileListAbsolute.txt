@@ -1,0 +1,16 @@
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.exe
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.deps.json
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.runtimeconfig.json
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.runtimeconfig.dev.json
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.dll
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\ref\RectangleBulder.dll
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\bin\Debug\net5.0\RectangleBulder.pdb
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.csproj.AssemblyReference.cache
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.GeneratedMSBuildEditorConfig.editorconfig
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.AssemblyInfoInputs.cache
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.AssemblyInfo.cs
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.csproj.CoreCompileInputs.cache
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.dll
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\ref\RectangleBulder.dll
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.pdb
+C:\rabrant0\Nauka programowania\RectangleBuilder\RectangleBulder\RectangleBulder\obj\Debug\net5.0\RectangleBulder.genruntimeconfig.cache
